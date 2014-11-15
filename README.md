@@ -1,4 +1,4 @@
-workload-calculator
+Workload Calculator
 ===================
 
-Aplikasi Android sebagaitugas Pengembangan Aplikasi Mobile
+Aplikasi Android sebagai tugas Pengembangan Aplikasi Mobile
